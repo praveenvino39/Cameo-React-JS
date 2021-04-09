@@ -1,0 +1,52 @@
+{
+    "featured": [
+        {
+            "id": 1,
+            "title": "Floyd Mayweather",
+            "position": "World Champion Boxer, 50-0",
+            "price": "999",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/QGLkrkNvS_avatar-AIPInAM68.jpg?h=332&w=332&q=100"
+        },
+        {
+            "id": 2,
+            "title": "Lily Allen",
+            "position": "World Champion Boxer, 50-0",
+            "price": "250",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/iJaBSo_wf_avatar-xdi7qKzDJ.jpg?h=332&w=332&q=100"
+        },
+        {
+            "id": 3,
+            "title": "Vanilla Ice",
+            "position": "Go Ninja Go Ninja Go",
+            "price": "300",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/avatar-P0GPiY75.jpg?h=332&w=332&q=100"
+        },
+        {
+            "id": 4,
+            "title": "Gabby Douglas",
+            "position": "here to help and inspire ☁️",
+            "price": "475",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/wXubwDAd8i_avatar-8dXuFzUfb.jpg?h=332&w=332&q=100"
+        },
+        {
+            "id": 5,
+            "title": "Fran Drescher",
+            "position": "Emmy & Golden Globe Nominated Actress - The Nanny",
+            "price": "500",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/-UTKXaXpN_unnamed.jpg?h=332&w=332&q=100"
+        },
+        {
+            "id": 6,
+            "title": "Shangela",
+            "position": "VH1 - RuPaul's Drag Race",
+            "price": "150",
+            "description": "Floyd “Money” Mayweather. One of most iconic athletes of all time. 12-time World Champion and currently undefeated boxing icon Mr. 50-0. For Commercial requests, hit the \"book for a brand or business\" button.",
+            "image": "https://d31wcbk3iidrjq.cloudfront.net/cmFGP2Gbg_static_user_SJe0Vj9NG-AF0873C9-7B44-4A5D-8AB1-BD3D439E102B.jpg?h=332&w=332&q=100"
+        }
+    ]
+}

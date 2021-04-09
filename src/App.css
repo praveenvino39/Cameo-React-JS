@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(16, 16, 16);
+  margin: 0px;
+  padding: 0px;
+}
+
+p{
+  margin: 0px;
+  padding: 0px;
+}
+
+a{
+  text-decoration: none;
+}

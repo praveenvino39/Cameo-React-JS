@@ -1,0 +1,37 @@
+.cameo_detail_content{
+    padding: 0px 11rem;
+}
+
+
+@media only screen and (max-width: 1000px){
+    .cameo_detail_content{
+        padding: 0px 2rem;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .cameo_detail_content{
+        padding: 0px 1rem;
+    }
+    .avatar{
+        flex-grow: 1 !important;
+        max-width: 180px;
+        max-height: 180px;
+    }
+    .avatar_container{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .info_container{
+        max-width: 100% !important;
+        /* width: 100vw; */
+    }
+}
+@media only screen and (max-width: 450px){
+    .cameo_detail_content{
+        padding: 0px .5rem;
+    }
+    .name{
+        font-size: 23px !important;
+    }
+}

@@ -1,0 +1,8 @@
+@media only screen and (max-width:800px){
+    .what_info_container{
+        grid-template-columns: 1fr !important;
+    }
+    .second_grid{
+        margin-top: 20px;
+    }
+}

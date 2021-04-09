@@ -1,0 +1,11 @@
+.page_content{
+    margin: 90px 30px;
+    
+}
+
+@media only screen and (max-width: 500px) {
+    .page_content{
+        margin: 90px 10px;
+    }
+    
+}
